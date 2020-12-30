@@ -1,0 +1,40 @@
+murz colorscheme
+
+blue   #6BA2FF
+cyan   #45FFFF
+green  #96F7C8
+orange #FFBA63
+pink   #FF6B9D
+purple #E66AFC
+red    #FF7575
+yellow #FFFF39
+
+bg1 #18181B
+bg2 #20212C
+fg1 #F8F8F8
+fg2 #CACACE
+
+shades
+1 #5D5E72
+2 #7A7B8C
+3 #A0A0AB
+4 #CACACE
+5 #F8F8F8
+
+terminal colors
+1 #18181B
+2 #FF7575
+3 #96F7C8
+4 #FFFF39
+5 #6BA2FF
+6 #E66AFC
+7 #45FFFF
+8 #CACACE
+1 #5D5E72
+2 #FF7575
+3 #96F7C8
+4 #FFFF39
+5 #6BA2FF
+6 #E66AFC
+7 #45FFFF
+8 #F8F8F8
